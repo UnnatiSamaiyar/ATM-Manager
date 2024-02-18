@@ -1,4 +1,4 @@
-**ATM Manager Project**
+**Banking Manager Project**
 
 This project is aimed at managing ATM operations using Python and MySQL. It utilizes CRUD operations to handle new customer registrations and account openings, with all data being stored in a MySQL database. The CRUD operations are performed through a Python interface.
 
